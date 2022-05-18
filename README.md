@@ -1,7 +1,7 @@
 # <img src='https://github.com/edwaggoner/real-time-bus-tracker/blob/main/MIT-xPRO-vertical-logo.png' alt='MIT xPro logo' width='30'> Real-Time Boston Bus Tracker | *A Bootcamp Project*
 
 ## About
-This is a project that I developed in Week 4 of MIT xPro Bootcamp. MIT provided starter code that included unstyled "Add PacMan" and "Start Game" buttons and placed one motionless PacMan on the screen.
+This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided starter code that included unstyled "Add PacMan" and "Start Game" buttons and placed one motionless PacMan on the screen.
 
 >**Skills Highlighted**:
 1. Bind DOM elements to mouse events.
