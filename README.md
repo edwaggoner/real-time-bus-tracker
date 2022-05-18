@@ -16,7 +16,7 @@ This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided 
 3. Refresh the real-time location of a bus every several seconds and mark its current location on the map.
 
 >**Custom features**:
-1. Made the Boston map center itself using the coordinates of the initial current location of the bus, before its marker is added by user's click.
+1. Made the Boston map center itself on first render, using the initial coordinates of the current location of the bus -- prior to any click of the button.
 2. Added an overlaid title to the map.
 3. Positioned and styled the button that begins real-time tracking.
 
