@@ -1,32 +1,32 @@
 # <img src='https://github.com/edwaggoner/real-time-bus-tracker/blob/main/MIT-xPRO-vertical-logo.png' alt='MIT xPro logo' width='30'> Real-Time Boston Bus Tracker | *A Bootcamp Project*
 
 ## About
-This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided starter code that included unstyled "Add PacMan" and "Start Game" buttons and placed one motionless PacMan on the screen.
+This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided starter code for basic operations.
 
 >**Skills Highlighted**:
-1. Bind DOM elements to mouse events.
-2. Use JavaScript to dynamically display data on a web page.
-3. Create an animated effect by toggling images.
-4. Use JavaScript, HTML, and CSS to set web page styles.
+1. Use a JavaScript library to render a map on a web page.
+2. Build and manipulate a map on a web page.
+3. Bind DOM elements to mouse events.
+4. Use JavaScript to dynamically display data on a web page.
+5. Use JavaScript, HTML, and CSS to set web page styles.
 
 >**Assignment Tasks**:
-1. Make a new PacMan appear at a random position on the screen when user clicks the "Add PacMan" button.
-2. Make each PacMan that is created start moving at a random velocity when user clicks the "Start Game" button.
-3. Make each PacMan appear to be chomping as it moves across the screen.
-4. Make each PacMan bounce upon impact with the top/bottom edge of the screen.
-5. Make each PacMan reverse direction when it hits the left/right edge of the screen.
-6. Make the face of each PacMan align with its current direction along the horizontal axis.
+1. Acquire and apply an access token for JavaScript library of maps.
+2. Set button to create a marker and add it to the map using the library's pre-built functions in response to click by the user.
+3. Refresh the real-time location of a bus every several seconds and mark its current location on the map.
+
+>**Custom features**:
+1. Made the Boston map center itself using the coordinates of the initial current location of the bus, before its marker is added by user's click.
+2. Added an overlaid title to the map.
+3. Positioned and styled the button that begins real-time tracking.
 
 ## How to Run <img src='https://github.com/edwaggoner/real-time-bus-tracker/blob/main/Real-time-bus-tracker-logo2.png' alt='Bus Tracker logo' width='30'>
-1. Click the "Add PacMan" button to place an initial PacMan on the screen. Create as many initial PacMen as you wish.
-2. Click the "Start Game" button once to set your PacMan (or PacMen) in motion.
-3. Each further click of the "Add PacMan" button will add another PacMan that will move immediately.
+1. Click the "Show Boston Route 1 Bus" to initiate real-time tracking.
 
 ## Future Improvements
-- [ ] Make the "Add PacMan" button select randomly from a set of differently styled PacMen.
-- [ ] Add a button that increases the velocity of the PacMen on the screen.
-- [ ] Replace the "Start Game" button with one that toggles between "Play" and "Pause".
-- [ ] Style the playing field with a background image.
+- [ ] Display real-time locations for additional buses that run the same route.
+- [ ] Display the identifying number of each bus that is being tracked.
+- [ ] Use multi-color markers to show the location of each additioal bus. 
 
 ## License
 
