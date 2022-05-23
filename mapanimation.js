@@ -19,6 +19,11 @@ async function centerTheMap() {
 
 let centerTheMapPromise = centerTheMap();
 
+var dt = new Date();
+	document.getElementById('date-time').innerHTML=dt;
+
+new Date();
+
 async function run(){
 	// ensure that Boston map is properly centered BEFORE the bus marker is plotted (by button-click)
 	await centerTheMapPromise;
@@ -32,7 +37,7 @@ async function run(){
 		.addTo(mapobj);
 
 	// timer to refresh data
-	setTimeout(run, 15000);
+	setTimeout(run, 12000);
 }
 
 // Request real-time bus data from MBTA
