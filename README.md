@@ -18,7 +18,8 @@ This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided 
 >**Custom features**:
 1. Made the Boston map center itself on first render, using the initial coordinates of the current location of the bus -- prior to any click of the button.
 2. Added an overlaid title to the map.
-3. Positioned and styled the button that begins real-time tracking.
+3. Added current date/time stamp to the map
+4. Positioned and styled the button that begins real-time tracking.
 
 ## How to Run <img src='https://github.com/edwaggoner/real-time-bus-tracker/blob/main/Real-time-bus-tracker-logo2.png' alt='Bus Tracker logo' width='30'>
 1. Click the "Show Boston Route 1 Bus" to initiate real-time tracking.
