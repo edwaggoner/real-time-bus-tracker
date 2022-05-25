@@ -6,12 +6,12 @@ This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided 
 >**Skills Highlighted**:
 1. Use a JavaScript library to render a map on a web page.
 2. Build and manipulate a map on a web page.
-3. Bind DOM elements to mouse events.
+3. Write async functions to draw data from external sources.
 4. Use JavaScript to dynamically display data on a web page.
 5. Use JavaScript, HTML, and CSS to set web page styles.
 
 >**Assignment Tasks**:
-1. Acquire and apply an access token for JavaScript library of maps.
+1. Acquire and apply an access token for a JavaScript library of maps.
 2. Set button to create a marker and add it to the map using the library's pre-built functions in response to click by the user.
 3. Refresh the real-time location of a bus every several seconds and mark its current location on the map.
 
