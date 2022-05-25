@@ -6,7 +6,7 @@ This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided 
 >**Skills Highlighted**:
 1. Use a JavaScript library to render a map on a web page.
 2. Build and manipulate a map on a web page.
-3. Bind DOM elements to mouse events.
+3. Write async functions to draw data from external sources.
 4. Use JavaScript to dynamically display data on a web page.
 5. Use JavaScript, HTML, and CSS to set web page styles.
 
