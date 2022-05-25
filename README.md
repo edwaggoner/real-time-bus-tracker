@@ -1,4 +1,4 @@
-# <img src='https://github.com/edwaggoner/real-time-bus-tracker/blob/main/MIT-xPRO-vertical-logo.png' alt='MIT xPro logo' width='30'> Real-Time Boston Bus Tracker | *A Bootcamp Project*
+# <img src='https://github.com/edwaggoner/real-time-bus-tracker/blob/main/images/MIT-xPRO-vertical-logo.png' alt='MIT xPro logo' width='30'> Real-Time Boston Bus Tracker | *A Bootcamp Project*
 
 ## About
 This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided starter code for basic operations.
@@ -21,7 +21,7 @@ This is a project that I developed in Week 5 of MIT xPro Bootcamp. MIT provided 
 3. Added current date/time stamp to the map
 4. Positioned and styled the button that begins real-time tracking.
 
-## How to Run <img src='https://github.com/edwaggoner/real-time-bus-tracker/blob/main/Real-time-bus-tracker-logo2.png' alt='Bus Tracker logo' width='30'>
+## How to Run <img src='https://github.com/edwaggoner/real-time-bus-tracker/blob/main/images/Real-time-bus-tracker-logo2.png' alt='Bus Tracker logo' width='30'>
 1. Click the "Show Boston Route 1 Bus" to initiate real-time tracking.
 
 ## Future Improvements
